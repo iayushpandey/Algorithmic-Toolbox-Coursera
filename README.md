@@ -5,8 +5,7 @@
 
 </div>
 
-<h3 align="center">Algorithmic Toolbox</h3>
-<div align="center">
+
 
 
 
